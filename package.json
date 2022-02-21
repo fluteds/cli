@@ -1,8 +1,8 @@
 {
   "name": "@fluteds/cli",
-  "version": "1.2.4",
+  "version": "1.0.0",
   "description": "A colourful porfolio readme in your terminal.",
-  "homepage": "https://fluted.xyz",
+  "homepage": "https://dont-ban.me",
   "repository": "https://github.com/fluteds/cli.git",
   "bugs": "https://github.com/fluteds/cli/issues",
   "license": "MIT",
@@ -13,7 +13,7 @@
   "author": {
     "name": "fluteds",
     "email": "34608301+fluteds@users.noreply.github.com",
-    "url": "https://fluted.xyz"
+    "url": "https://dont-ban.me"
   },
   "engines": {
     "node": "^10 || ^12 || >=14"
