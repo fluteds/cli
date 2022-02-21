@@ -9,6 +9,8 @@ A short command line npm readme package that's pretty useless.
 
 <p align="center">
 <img alt="Code Quality" src="https://img.shields.io/npm/v/@fluteds/cli?color=ff69b4&logo=npm)](https://www.npmjs.com/package/@fluteds/cli">
+<img alt="GitHub Workflow Status" src="https://github.com/fluteds/cli/actions/workflows/cli-release.yml/badge.svg">
+<img alt="GitHub Workflow Status" src="https://github.com/fluteds/cli/actions/workflows/cli-test.yml/badge.svg">
 <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/fluteds/cli">
 </p>
 
