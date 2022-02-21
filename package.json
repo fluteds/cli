@@ -1,6 +1,6 @@
 {
   "name": "@fluteds/cli",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "A colourful porfolio readme in your terminal.",
   "homepage": "https://dont-ban.me",
   "repository": "https://github.com/fluteds/cli.git",
@@ -12,7 +12,7 @@
   ],
   "publishConfig": {
     "access": "public"
-  },  
+  },
   "author": {
     "name": "fluteds",
     "email": "34608301+fluteds@users.noreply.github.com",
