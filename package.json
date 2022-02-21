@@ -10,6 +10,9 @@
     "cli",
     "portfolio"
   ],
+  "publishConfig": {
+    "access": "public"
+  },  
   "author": {
     "name": "fluteds",
     "email": "34608301+fluteds@users.noreply.github.com",
