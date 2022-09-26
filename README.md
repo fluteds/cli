@@ -2,15 +2,13 @@
 
 <p align="center">
 A short command line npm readme package that's pretty useless.
-<br>but it links to my socials, work and a kitten cam so... that's a bonus?
+<br>but it links to my socials, work and a kitten cam so that's a bonus?
 </p>
 
 <p align="center"><img src="https://raw.githubusercontent.com/fluteds/cli/main/screenshot.png" width="700"></p>
 
 <p align="center">
 <img alt="Code Quality" src="https://img.shields.io/npm/v/@fluteds/cli?color=ff69b4&logo=npm)](https://www.npmjs.com/package/@fluteds/cli">
-<img alt="GitHub Workflow Status" src="https://github.com/fluteds/cli/actions/workflows/cli-release.yml/badge.svg">
-<img alt="GitHub Workflow Status" src="https://github.com/fluteds/cli/actions/workflows/cli-test.yml/badge.svg">
 <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/fluteds/cli">
 </p>
 
@@ -54,10 +52,6 @@ If you don't want to use `np`
 - Run the workflows whenever you want to push from github to npm & github packages.
 
 Note: make sure you manually update `package.json` & `package-lock.json`.
-
-## Inspired by
-
-- [@sindresorhus/sindresorhus](https://github.com/sindresorhus/sindresorhus)
 
 ## Built using
 

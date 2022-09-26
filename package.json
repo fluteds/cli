@@ -1,22 +1,18 @@
 {
   "name": "@fluteds/cli",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "A colourful porfolio readme in your terminal.",
-  "homepage": "https://dont-ban.me",
   "repository": "https://github.com/fluteds/cli.git",
   "bugs": "https://github.com/fluteds/cli/issues",
   "license": "MIT",
   "keywords": [
-    "cli",
     "portfolio"
   ],
   "publishConfig": {
     "access": "public"
   },
   "author": {
-    "name": "fluteds",
-    "email": "34608301+fluteds@users.noreply.github.com",
-    "url": "https://dont-ban.me"
+    "name": "fluteds"
   },
   "engines": {
     "node": "^10 || ^12 || >=14"

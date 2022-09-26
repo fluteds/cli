@@ -35,14 +35,6 @@ const items = createItems([
     url: 'https://github.com/fluteds'
   },
   {
-    label: '🦜  Twitter',
-    url: 'https://twitter.com/intent/user?screen_name=fluted_'
-  },
-  {
-    label: '🔐  PGP Key',
-    url: 'https://keybase.io/fluted'
-  },
-  {
     label: '🐈  Kitten Cam',
     url: 'https://www.youtube.com/watch?v=R7vrbiDi0Tc&t=0s'
   },
@@ -56,11 +48,11 @@ const items = createItems([
 
 const menu = () => (
   <Box flexDirection="column">
-    <Gradient name="pastel">
-      <BigText text="fluteds"/>
+    <Gradient name="rainbow">
+      <BigText text="fluted"/>
     </Gradient>
     <Box marginBottom={1}>
-    <Text>Website Designer • Open-Sourcer • Data Hoarder</Text>
+    <Text>Open-Sourcer • Data Hoarder</Text>
     </Box>
     <SelectInput items={items} onSelect={handleSelect}/>
   </Box>
