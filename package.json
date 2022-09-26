@@ -1,6 +1,6 @@
 {
   "name": "@fluteds/cli",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "description": "A colourful porfolio readme in your terminal.",
   "repository": "https://github.com/fluteds/cli.git",
   "bugs": "https://github.com/fluteds/cli/issues",
